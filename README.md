@@ -16,9 +16,9 @@ This project is a heater control system that:
 | Component        | Arduino Pin |
 |------------------|-------------|
 | NTC Thermistor   | A0           |
-| Heater LED       | D4           |
-| Status LED       | D5           |
-| Buzzer           | D3           |
+| Heater LED       | D3           |
+| Status LED       | D4           |
+| Buzzer           | D5           |
 
 ## Usage
 1. Upload the `HeaterControl.ino` to Arduino UNO
